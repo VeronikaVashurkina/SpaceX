@@ -172,6 +172,7 @@ body {
   .rocket {
     position: static;
     margin-bottom: 30px;
+    min-width: 75px;
   }
   .table {
     margin-bottom: 0;
